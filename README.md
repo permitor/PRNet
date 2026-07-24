@@ -6,10 +6,16 @@ Source code, pretrained models, and prediction maps will be released upon accept
 
 ## Results
 
-### Quantitative Comparison
+### Quantitative SOTA Comparison
 
-<img width="1105" height="811" alt="Quantitative comparison" src="https://github.com/user-attachments/assets/b2788047-9acd-4b18-b256-fa4921316f65" />
+The table below reports the final RGB-D SOD comparison on seven benchmarks. Red and blue values indicate the best and second-best results in each row, respectively.
 
-### Qualitative Comparison
+<p align="center">
+  <img src="assets/sota_quantitative_table.png" alt="Quantitative comparison with state-of-the-art RGB-D SOD methods" width="100%">
+</p>
 
-<img width="1255" height="850" alt="Qualitative comparison" src="https://github.com/user-attachments/assets/5c4837a6-990c-44cf-8d90-c3856345bdbd" />
+### Qualitative SOTA Comparison
+
+<p align="center">
+  <img src="assets/sota_qualitative_comparison.png" alt="Visual comparison with state-of-the-art RGB-D SOD methods" width="100%">
+</p>
